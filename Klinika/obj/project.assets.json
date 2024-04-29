@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cloud\\Mój dysk\\School PL\\APDB\\4\\Klinika\\Klinika\\Klinika.csproj",
+      "projectUniqueName": "C:\\Users\\takyt\\Desktop\\apbd-tutorial4\\apbd-tutorial4\\Klinika\\Klinika.csproj",
       "projectName": "Klinika",
-      "projectPath": "D:\\Cloud\\Mój dysk\\School PL\\APDB\\4\\Klinika\\Klinika\\Klinika.csproj",
+      "projectPath": "C:\\Users\\takyt\\Desktop\\apbd-tutorial4\\apbd-tutorial4\\Klinika\\Klinika.csproj",
       "packagesPath": "C:\\Users\\takyt\\.nuget\\packages\\",
-      "outputPath": "D:\\Cloud\\Mój dysk\\School PL\\APDB\\4\\Klinika\\Klinika\\obj\\",
+      "outputPath": "C:\\Users\\takyt\\Desktop\\apbd-tutorial4\\apbd-tutorial4\\Klinika\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\takyt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -524,7 +524,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\takyt\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

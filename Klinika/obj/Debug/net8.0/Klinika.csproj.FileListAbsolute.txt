@@ -32,3 +32,59 @@ D:\Cloud\Mój dysk\School PL\APDB\4\Klinika\Klinika\obj\Debug\net8.0\refint\Klin
 D:\Cloud\Mój dysk\School PL\APDB\4\Klinika\Klinika\obj\Debug\net8.0\Klinika.pdb
 D:\Cloud\Mój dysk\School PL\APDB\4\Klinika\Klinika\obj\Debug\net8.0\Klinika.genruntimeconfig.cache
 D:\Cloud\Mój dysk\School PL\APDB\4\Klinika\Klinika\obj\Debug\net8.0\ref\Klinika.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.csproj.AssemblyReference.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.GeneratedMSBuildEditorConfig.editorconfig
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.AssemblyInfoInputs.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.AssemblyInfo.cs
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.csproj.CoreCompileInputs.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.MvcApplicationPartsAssemblyInfo.cs
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.MvcApplicationPartsAssemblyInfo.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.sourcelink.json
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\refint\Klinika.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.pdb
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.csproj.AssemblyReference.cache
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.AssemblyInfoInputs.cache
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.AssemblyInfo.cs
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.csproj.CoreCompileInputs.cache
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.MvcApplicationPartsAssemblyInfo.cs
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.MvcApplicationPartsAssemblyInfo.cache
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.sourcelink.json
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.dll
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\refint\Klinika.dll
+D:\Cloud\Mój dysk\School PL\APDB\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.pdb
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\appsettings.json
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Klinika.exe
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Klinika.deps.json
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Klinika.runtimeconfig.json
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Klinika.dll
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Klinika.pdb
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.csproj.AssemblyReference.cache
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.AssemblyInfoInputs.cache
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.AssemblyInfo.cs
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.csproj.CoreCompileInputs.cache
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.sourcelink.json
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\staticwebassets\msbuild.Klinika.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\staticwebassets\msbuild.build.Klinika.props
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Klinika.props
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Klinika.props
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\scopedcss\bundle\Klinika.styles.css
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.csproj.Up2Date
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.dll
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\refint\Klinika.dll
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.pdb
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\Klinika.genruntimeconfig.cache
+C:\Users\takyt\Desktop\apbd-tutorial4\apbd-tutorial4\Klinika\obj\Debug\net8.0\ref\Klinika.dll

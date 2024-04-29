@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rwS9kVvRhMXRighf0hpvtDMivwJ30gb6ZCP//4qAYb69MEIzDmfdVHa5bDKrUIlVPXsNepk3lhXZlHBwpHJQLA==",
+  "dgSpecHash": "9OAjDwe0dDZ+A1Bi17aEScfHGFnbFsduB7XvTMxUn43wPySScb19IOM+mIwCnB0ejwGxQ6325oHegJu69tqLBQ==",
   "success": true,
-  "projectFilePath": "D:\\Cloud\\Mój dysk\\School PL\\APDB\\4\\Klinika\\Klinika\\Klinika.csproj",
+  "projectFilePath": "C:\\Users\\takyt\\Desktop\\apbd-tutorial4\\apbd-tutorial4\\Klinika\\Klinika.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takyt\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\takyt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,4 +1,5 @@
 using Klinika.Animals;
+using Klinika.Visits;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,4 +19,5 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.RegisterEndpointsForAnimals();
+app.RegisterEndpointsForVisits();
 app.Run();
