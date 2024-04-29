@@ -18,6 +18,17 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+List<Animal> animals = new List<Animal>
+{
+    new Animal(1, "Burek", "Dog", 12.5, "Brown"),
+    new Animal(2, "Mruczek", "Cat", 4.5, "Black"),
+    new Animal(3, "Puszek", "Cat", 5.5, "White"),
+};
+
+Configuartion.setAnimalListForAnimal(animals);
+Configuration.setAnimalListForVisit(animals);
+
 app.RegisterEndpointsForAnimals();
 app.RegisterEndpointsForVisits();
 app.Run();

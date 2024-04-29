@@ -1,14 +1,16 @@
+using System.Runtime.CompilerServices;
+
 namespace Klinika.Animals;
 
 public static class Configuartion
 {
 
-    private static List<Animal> animals = new List<Animal>
+    private static List<Animal> animals = new List<Animal>();
+
+    public static void setAnimalListForAnimal(this List<Animal> _animals)
     {
-        new Animal(1, "Burek", "Dog", 12.5, "Brown"),
-        new Animal(2, "Mruczek", "Cat", 4.5, "Black"),
-        new Animal(3, "Puszek", "Cat", 5.5, "White"),
-    };
+        animals = _animals;
+    }
     
     public static void RegisterEndpointsForAnimals(this IEndpointRouteBuilder endpoints)
     {
