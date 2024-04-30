@@ -7,7 +7,7 @@ public static class Configuartion
 
     private static List<Animal> animals = new List<Animal>();
 
-    public static void setAnimalListForAnimal(this List<Animal> _animals)
+    public static void SetAnimalListForAnimal(this List<Animal> _animals)
     {
         animals = _animals;
     }
@@ -30,7 +30,7 @@ public static class Configuartion
             }
             return TypedResults.Ok(animals.FirstOrDefault(a => a.id == id));
         });
-        endpoints.MapPut("/api/v1/animals/add", (Animal newAnimal) => //dodanie nowego
+        endpoints.MapPost("/api/v1/animals/add", (Animal newAnimal) => //dodanie nowego
         {
             animals.Add(newAnimal);
             return TypedResults.Ok();

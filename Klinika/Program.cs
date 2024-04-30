@@ -26,8 +26,8 @@ List<Animal> animals = new List<Animal>
     new Animal(3, "Puszek", "Cat", 5.5, "White"),
 };
 
-Configuartion.setAnimalListForAnimal(animals);
-Configuration.setAnimalListForVisit(animals);
+Configuartion.SetAnimalListForAnimal(animals);
+Configuration.SetAnimalListForVisit(animals);
 
 app.RegisterEndpointsForAnimals();
 app.RegisterEndpointsForVisits();

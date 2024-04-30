@@ -7,7 +7,7 @@ public static class Configuration
     public static List<Animal> animals = new List<Animal>();
     public static List<Visit> visits;
 
-    public static void setAnimalListForVisit(List<Animal> _animals)
+    public static void SetAnimalListForVisit(List<Animal> _animals)
     {
         animals = _animals;
 
@@ -26,7 +26,7 @@ public static class Configuration
 
     public static void RegisterEndpointsForVisits(this IEndpointRouteBuilder endpoints)
         {
-            endpoints.MapGet("/api/v1/visits{id:int}", (int id) =>//wszystkie wizyty dla danego zwierzaka
+            endpoints.MapGet("/api/v1/visits/show_all/{id:int}", (int id) =>//wszystkie wizyty dla danego zwierzaka
             {
                 if (visits.FirstOrDefault(a => a.animal.id == id) == null)
                 {
@@ -34,7 +34,7 @@ public static class Configuration
                 }
                 return TypedResults.Ok(visits.Where(v => v.animal.id == id).ToList());
             });
-            endpoints.MapPut("/api/v1/visits/{id:int}", (Visit newVisit) =>
+            endpoints.MapPost("/api/v1/visits/add_new/{id:int}", (Visit newVisit) => //nowa wizyta
             {
                 if (animals.FirstOrDefault(a => a.id == newVisit.animal.id) == null)
                 {
